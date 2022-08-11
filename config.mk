@@ -1,5 +1,5 @@
 # st version
-VERSION = 0.9
+VERSION = 0.9+daniel.source
 
 # Customize below to fit your system
 
